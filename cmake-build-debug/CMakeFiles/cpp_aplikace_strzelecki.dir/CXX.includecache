@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jirka/Desktop/Strzelecki_projekty/cpp_aplikace/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+
